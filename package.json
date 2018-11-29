@@ -15,16 +15,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/emn178/chartjs-plugin-labels.git"
+    "url": "https://github.com/clovis1122/chartjs-plugin-labels.git"
   },
   "keywords": [
     "chart",
     "label"
   ],
   "license": "MIT",
-  "author": "Chen, Yi-Cyuan <emn178@gmail.com>",
-  "homepage": "https://github.com/emn178/chartjs-plugin-labels",
+  "author": "Jose Ramírez, Clovis <clovisr83@gmail.com>",
+  "homepage": "https://github.com/clovis1122/chartjs-plugin-labels.git",
   "bugs": {
-    "url": "https://github.com/emn178/chartjs-plugin-labels/issues"
+    "url": "https://github.com/clovis1122/chartjs-plugin-labels.git"
   }
 }
