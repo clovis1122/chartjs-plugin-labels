@@ -6,6 +6,13 @@
   "peerDependencies": {
     "chart.js": "^2.6.0"
   },
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "^1.1.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/emn178/chartjs-plugin-labels.git"
