@@ -471,7 +471,7 @@
       });
     },
     beforeDraw: function (chart) {
-      if (!SUPPORTED_TYPES[chart.config.type]) {
+      if (!SUPPORTED_TYPES[chart.config.type] || !chart._labels) {
         return;
       }
       chart._labels.forEach(function (label) {
